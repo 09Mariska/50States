@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://09mariska.github.io/50States/sitemap.xml
